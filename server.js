@@ -14,5 +14,4 @@ server.listen(PORT, (err) => {
     }
 
     console.log(`Server is listening on ${PORT}`);
-    
 })
